@@ -23,7 +23,7 @@ python guichatclient.py <ip/domain>
 
 # if want specific port
 
->or (if wants to use on specific port we have to use '-p')
+>if wants to use on specific port we have to use '-p'
 >
 ```python
 python guichatserver.py <ip/domain> -p <port no.>
