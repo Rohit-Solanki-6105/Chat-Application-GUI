@@ -8,9 +8,13 @@
 
 #
 
->on server: we have to give the ip or domain first and (if wants to use on specific port we have to use '-p')
+>on server: we have to give the ip or domain first
 ```python
-python 
+python guichatserver.py <ip/domain>
+```
+>or (if wants to use on specific port we have to use '-p')
+```python
+python guichatserver.py <ip/domain> -p <port no.>
 ```
 
 #
