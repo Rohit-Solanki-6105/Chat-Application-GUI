@@ -8,10 +8,9 @@
 
 #
 
->on server: we can change the host and port, as the host we can use our domain/ip
+>on server: we have to give the ip or domain first and (if wants to use on specific port we have to use '-p')
 ```python
-host = '127.0.0.1'
-port = 7976  
+python 
 ```
 
 #
