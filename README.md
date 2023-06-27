@@ -38,6 +38,6 @@ python guichatclient.py <ip/domain> -p <port no.>
 >without specific port
 <img src="default.png">
 <img src="default2.png">
-
+#
 >with specific port
 <img src="withport.png">
