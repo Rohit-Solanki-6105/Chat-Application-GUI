@@ -35,9 +35,11 @@ python guichatclient.py <ip/domain> -p <port no.>
 >It works on every os which have installed python
 
 #Screenshots
->without specific port
+> without specific port
 <img src="default.png">
 <img src="default2.png">
+
 #
+
 >with specific port
 <img src="withport.png">
