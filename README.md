@@ -19,7 +19,11 @@ python guichatserver.py <ip/domain> -p <port no.>
 
 #
 
->on client: we must to use the same host domain/ip and port no. as given in server
+>on client: we have to give the ip or domain first
 ```python
-client.connect(('127.0.0.1', 7976)) 
+python guichatclient.py <ip/domain>
+```
+>or (if wants to use on specific port we have to use '-p')
+```python
+python guichatclient.py <ip/domain> -p <port no.>
 ```
