@@ -15,18 +15,19 @@
 ```python
 python guichatserver.py <ip/domain>
 ```
->or (if wants to use on specific port we have to use '-p')
-```python
-python guichatserver.py <ip/domain> -p <port no.>
-```
-
-#
 
 >on client: we have to give the ip or domain first
 ```python
 python guichatclient.py <ip/domain>
 ```
+
+# if want specific port
+
 >or (if wants to use on specific port we have to use '-p')
+>
+```python
+python guichatserver.py <ip/domain> -p <port no.>
+```
 ```python
 python guichatclient.py <ip/domain> -p <port no.>
 ```
